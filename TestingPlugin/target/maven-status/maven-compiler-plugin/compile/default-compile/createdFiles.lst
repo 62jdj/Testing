@@ -1,0 +1,7 @@
+me\lavabucketman\testingplugin\listeners\JoinLeaveListener.class
+me\lavabucketman\testingplugin\events\PlayerMove.class
+me\lavabucketman\testingplugin\listeners\ShearSheepListener.class
+me\lavabucketman\testingplugin\TestingPlugin.class
+me\lavabucketman\testingplugin\commands\FeedCommand.class
+me\lavabucketman\testingplugin\commands\GodCommand.class
+me\lavabucketman\testingplugin\listeners\XPBottleBreakListener.class

@@ -1,0 +1,14 @@
+name: TestingPlugin
+version: '${project.version}'
+main: me.lavabucketman.testingplugin.TestingPlugin
+api-version: 1.16
+authors: [ LavaBucketMan ]
+description: This is only for my testing plugin
+website: https://github.com/62jdj
+commands:
+  god:
+    description: Become invincible
+    usage: /<command>
+  feed:
+    description: Feed yourself to the max hunger level
+    usage: /<command>
